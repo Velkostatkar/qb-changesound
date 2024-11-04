@@ -11,14 +11,18 @@ In many cases, developers may choose engine sounds that do not fit the specific 
 
 Key Features:
 
-Temporary Sound Change: Players can select an engine sound from a predefined list, providing a quick way to enhance their vehicle's auditory experience.
-Local and Synced: The chosen sound will be heard by both the player and those nearby, creating a more immersive environment.
-Easy to Use: Simply type the command /cs to open the selection menu and choose your desired engine sound.
-Persistence of Changes: The sound change will remain active until the vehicle is saved or the player disconnects from the server, allowing for a seamless experience.
+- Temporary Sound Change: Players can select an engine sound from a predefined list, providing a quick way to enhance their vehicle's auditory experience.
+
+- Local and Synced: The chosen sound will be heard by both the player and those nearby, creating a more immersive environment.
+
+- Easy to Use: Simply type the command /cs to open the selection menu and choose your desired engine sound.
+
+- Persistence of Changes: The sound change will remain active until the vehicle is saved or the player disconnects from the server, allowing for a seamless experience.
 
 Installation:
 
-Place the script files in your QB-Core resources folder.
-Ensure the sound files from the provided pack are correctly referenced in the configuration.
-Add the script to your server's server.cfg.
+1) Place the script files in your QB-Core resources folder.
+2) Ensure the sound files from the provided pack are correctly referenced in the configuration.
+3) Add the script to your server's server.cfg.
+
 Enhance your gameplay and express your style with this engine sound change script!
