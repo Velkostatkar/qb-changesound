@@ -27,7 +27,10 @@ Installation:
 
 Enhance your gameplay and express your style with this engine sound change script!
 
-Dependency:
-start qb-core
-start qb-menu
-start qb-notification
+#Dependency:
+
+qb-core
+
+qb-menu
+
+qb-notification
